@@ -17,5 +17,4 @@
 - URL para clone: https://linked.com/login
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![passwd](https://github.com/user-attachments/assets/a72ce059-8f3e-45b2-8291-40c102fce2e8)
